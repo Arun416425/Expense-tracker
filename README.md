@@ -1,5 +1,5 @@
-💰 Expense Tracker (Dark Mode)
-A sleek, responsive web application built with Vanilla JavaScript to help users track their finances. Whether you're adding your monthly paycheck or that overpriced coffee, this tracker keeps your balance updated in real-time.
+<h1>💰 Expense Tracker (Dark Mode)</h1>
+<p>A sleek, responsive web application built with Vanilla JavaScript to help users track their finances. Whether you're adding your monthly paycheck or that overpriced coffee, this tracker keeps your balance updated in real-time.</p>
 
 ✨ Features
 Dual Transaction Types: Easily categorize entries as Income (+) or Expense (-).
