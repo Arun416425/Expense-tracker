@@ -31,7 +31,7 @@
 <p>Open the Project:</p>
 <li>Simply open index.html in your favorite browser.</li>
 
-<p>Manage Your Money:</p>
+## Manage Your Money:
 
 <li>Enter the name of the transaction.</li>
 
