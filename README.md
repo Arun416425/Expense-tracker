@@ -27,15 +27,15 @@
 <p>Clone the Repository:</p>
 
 <p>Bash</p>
-<p>git clone https://github.com/your-username/expense-tracker.git</p>
-Open the Project:
-Simply open index.html in your favorite browser.
+<pre>git clone https://github.com/your-username/expense-tracker.git</pre>
+<p>Open the Project:</p>
+<li>Simply open index.html in your favorite browser.</li>
 
-Manage Your Money:
+<p>Manage Your Money:</p>
 
-Enter the name of the transaction.
+<li>Enter the name of the transaction.</li>
 
-Select Income to add to your balance.
+<li>Select Income to add to your balance.</li>
 
 Select Expense to subtract from your balance.
 
