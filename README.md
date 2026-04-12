@@ -19,10 +19,9 @@
 
 <li>JavaScript (ES6): DOM manipulation, state management, and local storage logic.</li>
 
-📸 Preview
-[!TIP]
-Desktop View: Features a centered dashboard with a scrollable transaction history.
-Mobile View: Elements stack vertically for a seamless "App-like" experience.
+## 📸 Preview
+<li>Desktop View: Features a centered dashboard with a scrollable transaction history.</li>
+<li>Mobile View: Elements stack vertically for a seamless "App-like" experience.</li>
 
 🚀 How to Use
 Clone the Repository:
