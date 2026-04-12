@@ -8,11 +8,11 @@
 
 <li>Dark Theme UI: A modern, high-contrast dark interface designed for readability and eye comfort.</li>
 
-Fully Responsive: Optimized for desktops, tablets, and smartphones.
+<li>Fully Responsive: Optimized for desktops, tablets, and smartphones.</li>
 
-Data Persistence: Uses localStorage to keep your data safe even after a page refresh.
+<li>Data Persistence: Uses localStorage to keep your data safe even after a page refresh.</li>
 
-🛠️ Tech Stack
+<h3>🛠️ Tech Stack</h3>
 HTML5: Semantic structure.
 
 CSS3: Custom styling with Flexbox/Grid and CSS Variables for the dark theme.
