@@ -27,7 +27,7 @@
 <p>Clone the Repository:</p>
 
 <p>Bash</p>
-<pre>git clone https://github.com/your-username/expense-tracker.git</pre>
+<p>git clone https://github.com/your-username/expense-tracker.git</p>
 Open the Project:
 Simply open index.html in your favorite browser.
 
