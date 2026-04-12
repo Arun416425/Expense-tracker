@@ -41,7 +41,5 @@
 
 <li>Delete transactions by clicking the "X" button next to any history item.</li>
 
-## 🧠 Logic Breakdown
-<p>The core of the application relies on a simple mathematical principle:$$Total\ Balance = \sum Income - \sum Expenses$$Whenever a new transaction is added, the JavaScript array is updated, and the entire UI re-renders to ensure the Income (Green) and Expense (Red) displays remain accurate.</p>
-
-📜 LicenseThis project is open-source and available under the MIT License. Feel free to fork it and add your own features (like charts or categories)!🙌 ContributingIf you have ideas for features like Pie Charts or Monthly Reports, feel free to open a Pull Request!
+## 📜 License
+<li>This project is open-source and available under the MIT License. Feel free to fork it and add your own features (like charts or categories)!🙌 ContributingIf you have ideas for features like Pie Charts or Monthly Reports, feel free to open a Pull Request!</li>
