@@ -12,12 +12,12 @@
 
 <li>Data Persistence: Uses localStorage to keep your data safe even after a page refresh.</li>
 
-<h3>🛠️ Tech Stack</h3>
-HTML5: Semantic structure.
+## 🛠️ Tech Stack
+<li>HTML5: Semantic structure.</li>
 
-CSS3: Custom styling with Flexbox/Grid and CSS Variables for the dark theme.
+<li>CSS3: Custom styling with Flexbox/Grid and CSS Variables for the dark theme.</li>
 
-JavaScript (ES6): DOM manipulation, state management, and local storage logic.
+<li>JavaScript (ES6): DOM manipulation, state management, and local storage logic.</li>
 
 📸 Preview
 [!TIP]
