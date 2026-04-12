@@ -23,11 +23,11 @@
 <li>Desktop View: Features a centered dashboard with a scrollable transaction history.</li>
 <li>Mobile View: Elements stack vertically for a seamless "App-like" experience.</li>
 
-🚀 How to Use
-Clone the Repository:
+## 🚀 How to Use
+<p>Clone the Repository:</p>
 
-Bash
-git clone https://github.com/your-username/expense-tracker.git
+<p>Bash</p>
+<pre>git clone https://github.com/your-username/expense-tracker.git</pre>
 Open the Project:
 Simply open index.html in your favorite browser.
 
