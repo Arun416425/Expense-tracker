@@ -37,7 +37,7 @@
 
 <li>Select Income to add to your balance.</li>
 
-<li>Select Expense to subtract from your balance.</li>
+<li>Select Expense to subtract from your balance</li>
 
 <li>Delete transactions by clicking the "X" button next to any history item.</li>
 
